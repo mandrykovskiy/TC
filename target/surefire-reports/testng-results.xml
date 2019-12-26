@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-27T00:18:19 EET" name="Surefire suite" finished-at="2019-12-27T00:18:24 EET" duration-ms="4841">
+    <groups>
+    </groups>
+    <test started-at="2019-12-27T00:18:19 EET" name="Surefire test" finished-at="2019-12-27T00:18:24 EET" duration-ms="4841">
+      <class name="WebAppTest">
+        <test-method signature="ciTest()[pri:0, instance:WebAppTest@4d4d48a6]" started-at="2019-12-27T00:18:19 EET" name="ciTest" finished-at="2019-12-27T00:18:24 EET" duration-ms="4716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ciTest -->
+      </class> <!-- WebAppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
