@@ -22,7 +22,7 @@
         <allure-selenide.version>2.12.1</allure-selenide.version>
         <jackson-annotations.version>2.9.9</jackson-annotations.version>
         <guice.version>4.1.0</guice.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <dependencies>
